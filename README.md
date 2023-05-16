@@ -19,6 +19,7 @@ Image 4
 
 Image 5
 Complete Bike Sales Dashboard
+Slicer fuctionality
 
 <img width="460" alt="Capture5" src="https://github.com/Teri11/Bike-Sales/assets/90449633/db739f38-693c-42d2-844e-ee623e39a15f">
 
